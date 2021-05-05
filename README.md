@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amankalra172
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Aman KAlra
+- 👀 I’m interested in product management, data science and cryptocurrency
+- 🌱 I’m currently learning strategic planning, deep learning.
+- 💞️ I’m looking for internship opportunities.
+- 📫 How to reach me : hi@amankalra.com
 
 <!---
 amankalra172/amankalra172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
