@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aman KAlra
+- 👋 Hi, I’m Aman Kalra
 - 👀 I’m interested in product management, data science and cryptocurrency
 - 🌱 I’m currently learning strategic planning, deep learning.
 - 💞️ I’m looking for internship opportunities.
