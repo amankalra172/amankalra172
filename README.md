@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman Kalra
-- 👀 I’m interested in data science and cryptocurrency with  experience in managing a prodyuct team.
+- 👀 I’m interested in data science and cryptocurrency with  experience in managing a product team.
 - 🌱 I’m currently learning machine in operations.
 - 💞️ I’m looking for internship opportunities.
 - 📫 How to reach me : hi@amankalra.com
